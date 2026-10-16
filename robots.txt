@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /photostory/
+Sitemap: https://photostoryedit.github.io/photostory/sitemap.xml

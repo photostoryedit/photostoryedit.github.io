@@ -1,2 +1,3 @@
-# photostoryedit.github.io
-editor de imagens gratuito, com ia integrada e gratuida para aumento de resolução e recortes inteligentes.
+# Photo Story v27
+
+Blocos Home e Tutoriais configurados. Leia ATIVAR-ANUNCIOS-V27.md: é necessário configurar a CMP e então ativar consentConfigured. Preserve o arquivo de verificação Google.
